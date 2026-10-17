@@ -13,7 +13,7 @@ I chose this artefact as I liked the breakdown of exactly which parts of ADM the
 The intention of the privacy laws seem to be ensuring some level of transparency from businesses in regards to AI and how customer information is being used. Whilst penalties outlined are only monetary in nature, overall this feels like an ethical way to ensure that customers are able to make informed decisions about which business to support.
 
 ## Artefact 2:
-![Screenshot 2](Figure3.png)
+
 ### Summary of the Artefact:
 A presentation by Dr Monique Ryan describing some of the impacts of the “Robo-Debt”, a government ADM initiative that used average income to assign debt to citizens receiving income support from 2016-2019. Dr Monique discusses the $475 million dollar settlement, which is the largest commonwealth settlement in Australian history, and how a royal commission found the scheme harmed economically disadvantaged citizens receiving income support.
 
@@ -42,6 +42,7 @@ This is fascinating, and is best shown with an example. Say a policy exists that
 In this scenario the decision isn’t being made by the bank, but by the bank policy, which is indeed a form of ADM. This shows me that definitions are vital to functional policy creation.
 
 ## Artefact 5:
+![Screenshot 2](Figure3.png)
 ### Summary of the Artefact:
 CEO Clare Sullivan of Motor Neuron Disease (MND) Australia presenting to the Senate Community Affairs Legislation Committee in regards to the proposed National Disability Insurance Scheme (NDIS) amendments. Clare talks at length about MND, and how current use of ADM is not suitable for the NDIS.
 
