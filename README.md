@@ -68,4 +68,5 @@ Kimberlee, W 2024, *Automated decision‑making in NSW: Mapping and analysis of 
 
 MND Australia 2024, *MND Australia CEO: “People With MND Cannot Wait Three Months” for NDIS Decisions*, online video, viewed 17 October 2026, available at <https://www.youtube.com/watch?v=fiPbimF3swA>.
 
+Ryan, M 2026, Safeguarding Australians from Government Automated Decision‑Making, online video, YouTube, viewed 17 October 2026, available at <https://www.youtube.com/watch?v=dI9Nl8S-eSo&t=190s>.  
 
