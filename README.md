@@ -4,7 +4,7 @@ A collection of Artefacts and reflections on my understanding of Automated Decis
 
 ### Summary of the Artefact:
 A video describing the upcoming Australian Privacy Principles (APP) being introduced into Australia on December 10. The changes introduce APP 1.7-1.9, principles that ensure businesses must disclose if they are using Automated Decision Making (ADM) influenced by customers information.
-
+![Screenshot 1](Figure4.png)
 ### Justification of the Artefact:
 I chose this artefact as I liked the breakdown of exactly which parts of ADM the policies are going to target. The policy enforces disclosure of:
     • The data the Artificial Intelligence (AI) is using.
@@ -13,7 +13,7 @@ I chose this artefact as I liked the breakdown of exactly which parts of ADM the
 The intention of the privacy laws seem to be ensuring some level of transparency from businesses in regards to AI and how customer information is being used. Whilst penalties outlined are only monetary in nature, overall this feels like an ethical way to ensure that customers are able to make informed decisions about which business to support.
 
 ## Artefact 2:
-![Screenshot 1](Figure3.png)
+![Screenshot 2](Figure3.png)
 ### Summary of the Artefact:
 A presentation by Dr Monique Ryan describing some of the impacts of the “Robo-Debt”, a government ADM initiative that used average income to assign debt to citizens receiving income support from 2016-2019. Dr Monique discusses the $475 million dollar settlement, which is the largest commonwealth settlement in Australian history, and how a royal commission found the scheme harmed economically disadvantaged citizens receiving income support.
 
