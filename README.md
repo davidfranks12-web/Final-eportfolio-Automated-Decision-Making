@@ -65,9 +65,11 @@ Genesys Data 2026, Automated Decision Making – Privacy Reform Australia, onlin
 
 Jason Cavallaro (Elite Ads) 2026, *The AI Law with a $50M Penalty For Non-Compliance*, online video, viewed 17 October 2026, available at <https://youtube.com/shorts/jUgZcdg2ceI>. 
 
-Kimberlee, W 2024, *Automated decision‑making in NSW: Mapping and analysis of the use of ADM systems by state and local governments*, research paper, CQUniversity, viewed 17 October 2026, doi: 10.25946/26839105.v1.
+Kimberlee, W 2024, *Automated decision‑making in NSW: Mapping and analysis of the use of ADM systems by state and local governments*, research paper, CQUniversity, viewed 17 October 2026, available at <https://doi.org/10.25946/26839105>
 
 MND Australia 2024, *MND Australia CEO: “People With MND Cannot Wait Three Months” for NDIS Decisions*, online video, viewed 17 October 2026, available at <https://www.youtube.com/watch?v=fiPbimF3swA>.
 
-Ryan, M 2026, Safeguarding Australians from Government Automated Decision‑Making, online video, YouTube, viewed 17 October 2026, available at <https://www.youtube.com/watch?v=dI9Nl8S-eSo&t=190s>.  
+Ryan, M 2026, Safeguarding Australians from Government Automated Decision‑Making, online video, YouTube, viewed 17 October 2026, available at <https://www.youtube.com/watch?v=dI9Nl8S-eSo&t=190s>. 
+
+Sargeant, H & Magnusson, M 2025, Formalising Anti‑Discrimination Law in Automated Decision Systems, FAccT ’25: Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency, available at Association for Computing Machinery, viewed 17 October 2026, <https://dl.acm.org/doi/full/10.1145/3715275.3732015>
 
