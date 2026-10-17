@@ -20,7 +20,7 @@ A presentation by Dr Monique Ryan describing some of the impacts of the “Robo-
 ### Justification of the Artefact:
 I chose this artefact due to the personal experience I had with the “Robo-Debt”. Dr Monique Ryan states the $475 million dollar settlement was “commensurate with the scale of the damage and ruin caused by Robo-Debt”(). In 2018 I personally was assigned a $6000 debt while receiving income support, this debt was paid back via taxing of my income. I paid the amount back in full, and in 2024 I received a settlement from the largest commonwealth settlement in Australian history to the tune of $175 dollars. If the only penalties for a crime are financial then the crime only exists for the poor. Under social contract theory everyone follows the rules and there are consequences for breaking them, but that system seems to fall apart when the consequences themselves aren’t equal.
 ## Artefact 3:
-![Screenshot 3](Figure5.png)
+![Screenshot 3]()
 ### Summary of the Artefact:
 A video further explaining the scope of the upcoming APP being implemented on December 10. This video goes into further details of what is being targeted, definitions of ADM and why these steps are being taken. The source states that in 2024 ADM transparency obligations were incorporated into APP 1, however in 2025 a review found only 17% of government agencies were being honest about usage of ADM.
 
