@@ -1,6 +1,7 @@
 # Final-eportfolio-Automated-Decision-Making
 A collection of Artefacts and reflections on my understanding of Automated Decision making
 ## Artefact 1:
+![Screenshot 1]
 ### Summary of the Artefact:
 A video describing the upcoming Australian Privacy Principles (APP) being introduced into Australia on December 10. The changes introduce APP 1.7-1.9, principles that ensure businesses must disclose if they are using Automated Decision Making (ADM) influenced by customers information.
 
