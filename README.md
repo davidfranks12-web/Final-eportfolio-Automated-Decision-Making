@@ -26,6 +26,7 @@ A video further explaining the scope of the upcoming APP being implemented on De
 This artefact was chosen because of the details this source reveals about the upcoming privacy reforms. The source sates that in 2024 ADM transparency obligations were incorporated into APP 1, however in 2025 a review found only 17% of government agencies were being honest about usage of ADM. True transparency requires understanding, and as such it is important to have comprehensive and rigid definitions of what ADM is. This is interesting to me because there is a legitimate argument that laws regarding transparency require transparency themselves in order to be ethical.
 
 ## Artefact 4:
+![Screenshot 4](Figure2.png)
 ### Summary of the Artefact:
 A research report into ADM within New South Wales conducted in 2024. The report is an extensive effort to map out usage of ADM in an effort to bring more visibility towards ADM within business, and the different definitions of what ADM might be.
 
