@@ -61,6 +61,8 @@ I chose this artefact because the implication of the third limitation is interes
 ## References:
 Genesys Data 2026, Automated Decision Making – Privacy Reform Australia, online video, viewed 17 October 2026, available at <https://www.youtube.com/watch?v=Rxw2yfw5uzY>.
 
+Jason Cavallaro (Elite Ads) 2026, *The AI Law with a $50M Penalty For Non-Compliance*, online video, viewed 17 October 2026, available at <https://youtube.com/shorts/jUgZcdg2ceI>. 
+
 Kimberlee, W 2024, *Automated decision‑making in NSW: Mapping and analysis of the use of ADM systems by state and local governments*, research paper, CQUniversity, viewed 17 October 2026, doi: 10.25946/26839105.v1.
 
 MND Australia 2024, *MND Australia CEO: “People With MND Cannot Wait Three Months” for NDIS Decisions*, online video, viewed 17 October 2026, available at <https://www.youtube.com/watch?v=fiPbimF3swA>.
